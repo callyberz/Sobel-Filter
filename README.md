@@ -48,10 +48,10 @@ for (int j = 0; j<img.rows-2; j++)
 
 ## Results
 **Applied only x-direction mask**
-![Alt text](https://user-images.githubusercontent.com/14825164/30439924-aeb28aee-99a7-11e7-8244-c8c044abe8ad.png)
+![Alt text](https://user-images.githubusercontent.com/14825164/30439925-aeb8f1a4-99a7-11e7-80b5-face6f435e52.png)
 
 **Applied only y-direction mask**
-![Alt text](https://user-images.githubusercontent.com/14825164/30439925-aeb8f1a4-99a7-11e7-80b5-face6f435e52.png)
+![Alt text](https://user-images.githubusercontent.com/14825164/30439924-aeb28aee-99a7-11e7-8244-c8c044abe8ad.png)
 
 **Final result**
 ![Alt text](https://user-images.githubusercontent.com/14825164/30440190-62d6f7e4-99a8-11e7-8217-cba3eb4ff5f5.png)
